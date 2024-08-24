@@ -1,4 +1,4 @@
-# Kian Silva CalculusII Conference Project
+# Kian Silva Calculus II Conference Project
  Formula 1 Calendar Optimized Using Python 3
 
 This is my Calculus II conference project, created at Sarah Lawrence College for Ross Parker's class. This semester-long research project allowed me to explore my interests in optimization algorithms while applying key concepts learned throughout the course. 
