@@ -7,4 +7,4 @@ Formula One Racing is a unique sport that combines advanced engineering and exce
 
 To address this, I explored optimizing the Formula One calendar using the Simulated Annealing algorithm, which is inspired by the metallurgical process of heating and cooling materials to eliminate impurities. This algorithm helps find a near-optimal travel route by gradually refining solutions through random exploration and systematic cooling.
 
-By applying Simulated Annealing, I was able to reduce the total travel distance by over 94,000 kilometers, making the season more cost-effective and environmentally friendly. This optimization could lead to more efficient transportation methods and reduced expenses for Formula One teams, ultimately enhancing the competition and sustainability of the sport. In my calculs 2
+By applying Simulated Annealing, I was able to reduce the total travel distance by over 94,000 kilometers, making the season more cost-effective and environmentally friendly. This optimization could lead to more efficient transportation methods and reduced expenses for Formula One teams, ultimately enhancing the competition and sustainability of the sport.
